@@ -1,0 +1,16 @@
+{
+	"appId": "com.wisport.app",
+	"appName": "Wisport",
+	"webDir": "dist",
+	"ios": {
+		"contentInset": "always",
+		"backgroundColor": "#090A0F",
+		"preferredContentMode": "mobile",
+		"scheme": "Wisport"
+	},
+	"server": {
+		"androidScheme": "https",
+		"iosScheme": "capacitor"
+	},
+	"packageClassList": []
+}
